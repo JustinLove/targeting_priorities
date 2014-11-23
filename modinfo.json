@@ -1,0 +1,14 @@
+{
+  "author": "wondible",
+  "build": "74525",
+  "category": ["units", "combat"],
+  "context": "server",
+  "date": "2014/11/22",
+  "description": "Make units prioritize targeting units which threaten them directly.",
+  "display_name": "Targeting Priorities",
+  "forum": null,
+  "identifier": "com.wondible.pa.targeting_priorities",
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
