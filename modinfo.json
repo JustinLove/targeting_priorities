@@ -3,12 +3,12 @@
   "build": "74525",
   "category": ["units", "combat"],
   "context": "server",
-  "date": "2014/11/22",
+  "date": "2014/11/23",
   "description": "Make units prioritize targeting units which threaten them directly.",
   "display_name": "Targeting Priorities",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-server-targeting-priorities.66113/",
   "identifier": "com.wondible.pa.targeting_priorities",
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 

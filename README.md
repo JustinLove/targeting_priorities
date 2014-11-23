@@ -1,6 +1,6 @@
 # Targeting Priorities
 
-Make units prioritize targeting units which threaten them directly. Second priority is fabbers, which seem to be human player's prime target.
+Make units prioritize targeting units which threaten them directly. Second priority is fabbers, which seem to be human player's prime target.  Currently only addresses air-ground interface.
 
 Priorities don't do as much as you'd like.  It only affects selection among units already in range.  Bombers always setting up their runs out of range, so they have virtually no selectivity.
 
