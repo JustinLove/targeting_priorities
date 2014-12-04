@@ -69,8 +69,8 @@ module.exports = function(grunt) {
       ground_air: {
         targets: [
           'pa/units/land/aa_missile_vehicle/aa_missile_vehicle_tool_weapon.json',
-          'pa/units/land/air_defense/air_defense_tool_weaon.json',
-          'pa/units/land/air_defense_adv/air_defense_adv_tool_weaon.json',
+          'pa/units/land/air_defense/air_defense_tool_weapon.json',
+          'pa/units/land/air_defense_adv/air_defense_adv_tool_weapon.json',
           'pa/units/commanders/base_commander/base_commander_tool_aa_weapon.json',
           'pa/units/sea/figate/frigate_tool_weapon_aa.json',
           'pa/units/sea/missile_ship/missile_ship_aa_tool_weapon.json',
